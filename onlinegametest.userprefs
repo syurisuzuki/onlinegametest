@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bumper.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerContlorler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Synchronizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/ToolGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Bumper.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/clarine/country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AICtrlInterface.cs" line="147" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
